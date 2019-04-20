@@ -1,0 +1,60 @@
+# 'adaptability':
+  . Most correlated unigrams:
+. growth
+. opportunities
+  . Most correlated bigrams:
+. learning opportunities
+. growth opportunities
+  . Most correlated trigrams:
+. work life balance
+. advice management keep
+# 'collaboration':
+  . Most correlated unigrams:
+. team
+. people
+  . Most correlated bigrams:
+. great people
+. company culture
+  . Most correlated trigrams:
+. great company culture
+. work life balance
+# 'customer':
+  . Most correlated unigrams:
+. pay
+. employees
+  . Most correlated bigrams:
+. care employees
+. job security
+  . Most correlated trigrams:
+. employees advice management
+. work life balance
+# 'detail':
+  . Most correlated unigrams:
+. process
+. review
+  . Most correlated bigrams:
+. review process
+. review system
+  . Most correlated trigrams:
+. advice management cut
+. system advice management
+# 'integrity':
+  . Most correlated unigrams:
+. nothing
+. good
+  . Most correlated bigrams:
+. good experience
+. nothing nothing
+  . Most correlated trigrams:
+. life balance good
+. good work life
+# 'result':
+  . Most correlated unigrams:
+. work
+. hours
+  . Most correlated bigrams:
+. work hours
+. working hours
+  . Most correlated trigrams:
+. flexible working hours
+. long working hours
